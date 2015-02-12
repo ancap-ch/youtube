@@ -38,22 +38,33 @@
  - English video: https://www.youtube.com/watch?v=fasTSY-dB-s
  - Reference work: https://www.youtube.com/watch?v=G0I9E1vcb5o
 
-- **「肩をすくめるアトラス」からの教訓** Lessons from "Atlas Shrugged"
+- **「肩をすくめるアトラス」からの教訓** Lessons from "Atlas Shrugged" [0]
  - Reference work: https://www.youtube.com/watch?v=f2knZoVWxLs
 
-- **中央銀行とビジネスサイクルについての真実** The Truth About Central Banking and Business Cycles
+- **中央銀行とビジネスサイクルについての真実** The Truth About Central Banking and Business Cycles [0]
  - English video: https://www.youtube.com/watch?v=YaxIPPMR3fI
  - Reference work: https://www.youtube.com/watch?v=M943aTh4kas
 
-- **ビットコインと代替通貨についての真実** The Truth about Bitcoin and Alternative Currencies
+- **ビットコインと代替通貨についての真実** The Truth about Bitcoin and Alternative Currencies [0]
  - English video: https://www.youtube.com/watch?v=AVdKgQ0jmH8
  - Reference work: https://www.youtube.com/watch?v=opCIeT5PmNM
 
-- **どのようにビットコインは、戦争を停止することができます** How Bitcoin Can Stop War
+- **どのようにビットコインは、戦争を停止することができます** How Bitcoin Can Stop War [0]
  - English video: https://www.youtube.com/watch?v=eyU3TgQqtV8
 
+- **最も危険な独占：注意殺す** The most dangerous monopoly: When caution kills [0]
+ - English video: http://www.learnliberty.org/videos/most-dangerous-monopoly-when-caution-kills/
 
+- **移民は経済を支援方法** Should We Let Them All In? How Immigration Helps the Economy [0]
+ - English video: http://www.learnliberty.org/videos/should-we-let-them-all-in-how-immigration-helps-the-economy/
 
+- **壊れた窓の誤謬。** The Broken Window Fallacy [0]
+ - English video: http://www.learnliberty.org/videos/the-broken-window-fallacy/
+ - Reference work: https://www.youtube.com/watch?v=J3IxaEonCGY
+
+- **なぜ有権者はそう無知か？** Why Are Voters So Uninformed? [0]
+ - English video: https://www.youtube.com/watch?v=jwPGzkui8ow
+ - Reference work: https://www.youtube.com/watch?v=zWHo1T1JiqA
 
 
 
