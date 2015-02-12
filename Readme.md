@@ -1,28 +1,27 @@
-# Video list
-
-## Completed Video
-
+## Finished 
 - **Japanese Name** English Name  
     - Youtube URL  
     - Github folder URL  
         - Readme file (the same as the youtube video description)  
             - Commentary, References, Original source URL  
-    - Transcription file(s)  
-    - Translated file(s)  
-    - Subtitle file(s)  
-    - Any other edited file(s)  
+        - Transcription file(s)  
+        - Translated file(s)  
+        - Subtitle file(s)  
+        - Any other edited file(s)  
+---
+(no videos yet)
 
-## Incomplete Video
-
-- **Japanese Name** English Name [stats]  
- - stats = (0) Verify Permissions; (1) Upload Video (hidden); (2) Transcript; (3) Translate; (4) Synchronize; (5) Upload Subtitle; (6) Enable Video Visualization in Youtube  
- - TODO: what still needs to be done  
- - Reference Material..  
+## Not Finished 
+- **Japanese Name** English Name [stats]
+ - stats can be: (0) Verify Permissions; (1) Upload Video (hidden); (2) Transcript; (3) Translate; (4) Synchronize; (5) Upload Subtitle; (6) Enable Video Visualization in Youtube
+ - TODO: what still needs to be done
+ - Reference Material..
+---
 
 - **自由の哲学** Philosophy of Liberty [0]
-    - TODO: verify permissions, put together the audio and animation into a single video file, then upload.
-    - Japanese hard-sub: http://www.jonathangullible.com/PoL/philosophy_of_liberty.swf?language=Japanese (swf, not video file)
-    - Japanese audio: http://www.catallaxy.jp/fei.html or https://www.youtube.com/watch?v=crfS8vVPP-o
+ - TODO: verify permissions, put together the audio and animation into a single video file, then upload.
+ - Japanese hard-sub: http://www.jonathangullible.com/PoL/philosophy_of_liberty.swf?language=Japanese (swf, not video file)
+ - Japanese audio: http://www.catallaxy.jp/fei.html or https://www.youtube.com/watch?v=crfS8vVPP-o
 
 - **エドガー搾取** Edgar the Exploiter [0]
  - English video: https://www.youtube.com/watch?v=IFbYM2EDz40
