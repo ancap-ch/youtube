@@ -8,6 +8,7 @@
         - Translated file(s)  
         - Subtitle file(s)  
         - Any other edited file(s)  
+
 ---
 (no videos yet)
 
@@ -16,6 +17,7 @@
  - stats can be: (0) Verify Permissions; (1) Upload Video (hidden); (2) Transcript; (3) Translate; (4) Synchronize; (5) Upload Subtitle; (6) Enable Video Visualization in Youtube
  - TODO: what still needs to be done
  - Reference Material..
+
 ---
 
 - **自由の哲学** Philosophy of Liberty [0]
