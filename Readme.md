@@ -13,8 +13,9 @@
 (no videos yet)
 
 ## Not Finished 
-- **Japanese Name** English Name [stats]
- - stats can be: (0) Verify Permissions; (1) Upload Video (hidden); (2) Transcript; (3) Translate; (4) Synchronize; (5) Upload Subtitle; (6) Enable Video Visualization in Youtube
+- **Japanese Name** English Name [stats] 
+[stats] 0: Verify permissions; 1: Upload video (hidden) and create Github folder; 2: Transcript; 3: Translate; 4: Synchronize; 5: Upload subtitle; 6: Enable video visualization in Youtube.
+ - Github folder URL
  - TODO: what still needs to be done
  - Reference Material..
 
@@ -40,8 +41,16 @@
 - **「肩をすくめるアトラス」からの教訓** Lessons from "Atlas Shrugged"
  - Reference work: https://www.youtube.com/watch?v=f2knZoVWxLs
 
+- **中央銀行とビジネスサイクルについての真実** The Truth About Central Banking and Business Cycles
+ - English video: https://www.youtube.com/watch?v=YaxIPPMR3fI
+ - Reference work: https://www.youtube.com/watch?v=M943aTh4kas
 
+- **ビットコインと代替通貨についての真実** The Truth about Bitcoin and Alternative Currencies
+ - English video: https://www.youtube.com/watch?v=AVdKgQ0jmH8
+ - Reference work: https://www.youtube.com/watch?v=opCIeT5PmNM
 
+- **どのようにビットコインは、戦争を停止することができます** How Bitcoin Can Stop War
+ - English video: https://www.youtube.com/watch?v=eyU3TgQqtV8
 
 
 
