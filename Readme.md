@@ -54,13 +54,13 @@
  - Full English video: https://www.youtube.com/watch?v=3VSqIMkXVe4
  - Reference work: https://www.youtube.com/watch?v=qkEwNwU1tJU
 
-- **政府は私たちではない** The Government Is Not Us [0]
- - English video: https://www.youtube.com/watch?v=kqoBZLSm1WA
- - Reference work: https://www.youtube.com/watch?v=vgvQzR_ItIU
-
 - **言論の自由** Free Speech [0]
  - English video: https://www.youtube.com/watch?v=wuow3f_eZZM
  - Reference work: https://www.youtube.com/watch?v=jTKEr3gBMtQ 
+
+- **政府は私たちではない** The Government Is Not Us [0]
+ - English video: https://www.youtube.com/watch?v=kqoBZLSm1WA
+ - Reference work: https://www.youtube.com/watch?v=vgvQzR_ItIU
 
 ---
 - **中央銀行とビジネスサイクルについての真実** The Truth About Central Banking and Business Cycles [0]
@@ -96,6 +96,7 @@
 - **薬物禁止に関する** What You Should Know About Drug Prohibition [0]
  - English video: https://www.youtube.com/watch?v=kSXKHLkK4jI
  - Reference work: https://www.youtube.com/watch?v=eEwHWYXJ4z4
+
 ---
 - **アイン·ランドの哲学** Objectivism: Ayn Rand's Philosophy for Living on Earth [0]
  - English video: https://www.youtube.com/watch?v=nT_RpzYohdI
