@@ -10,7 +10,7 @@
         - Any other edited file(s)  
 
 ---
-- **自由の哲学** Philosophy of Liberty [0, 6]
+- **自由の哲学** Philosophy of Liberty 
  - https://www.youtube.com/watch?v=3cPMZg8dqq0
  - https://github.com/ancap-chan/youtube/tree/master/philosophy_of_liberty
  - todo: Ask for authorization from every referenced person.
