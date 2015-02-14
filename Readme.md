@@ -14,17 +14,16 @@
 
 ## Not Finished 
 - **Japanese Name** English Name [stats] 
-[stats] 0: Verify permissions; 1: Upload video (hidden) and create Github folder; 2: Transcript; 3: Translate; 4: Synchronize; 5: Upload subtitle; 6: Enable video visualization in Youtube.
+[0: Verify permissions; 1: Upload video (hidden) and create Github folder; 2: Transcript; 3: Translate; 4: Synchronize; 5: Upload subtitle; 6: Enable video visualization in Youtube.]
  - Github folder URL
  - TODO: what still needs to be done
  - Reference Material..
 
 ---
 
-- **自由の哲学** Philosophy of Liberty [0]
- - TODO: verify permissions, put together the audio and animation into a single video file, then upload.
+- **自由の哲学** Philosophy of Liberty [0, 6]
  - Japanese hard-sub: http://www.jonathangullible.com/PoL/philosophy_of_liberty.swf?language=Japanese (swf, not video file)
- - Japanese audio: http://www.catallaxy.jp/fei.html or https://www.youtube.com/watch?v=crfS8vVPP-o
+ - Japanese audio: http://www.catallaxy.jp/fei.html or https://www.youtube.com/watch?v=p_G45dRdIGs
 
 - **私、鉛筆** I, Pencil Movie (japanese audio) [0]
  - TODO: merge the good quality English video with the Japanese audio.
