@@ -10,7 +10,10 @@
         - Any other edited file(s)  
 
 ---
-(no videos yet)
+- **自由の哲学** Philosophy of Liberty [0, 6]
+ - https://www.youtube.com/watch?v=3cPMZg8dqq0
+ - https://github.com/ancap-chan/youtube/tree/master/philosophy_of_liberty
+ - todo: Ask for authorization from every referenced person.
 
 ## Not Finished 
 - **Japanese Name** English Name [stats] 
@@ -20,11 +23,6 @@
  - Reference Material..
 
 ---
-
-- **自由の哲学** Philosophy of Liberty [0, 6]
- - Japanese hard-sub: http://www.jonathangullible.com/PoL/philosophy_of_liberty.swf?language=Japanese (swf, not video file)
- - Japanese audio: http://www.catallaxy.jp/fei.html or https://www.youtube.com/watch?v=p_G45dRdIGs
-
 - **私、鉛筆** I, Pencil Movie (japanese audio) [0]
  - TODO: merge the good quality English video with the Japanese audio.
  - English video: https://www.youtube.com/watch?v=IYO3tOqDISE 
