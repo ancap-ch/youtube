@@ -15,8 +15,8 @@
  - https://github.com/ancap-chan/youtube/tree/master/philosophy_of_liberty
 
 - **私、鉛筆** I, Pencil Movie 
- - youtube url
- - github url
+ - https://www.youtube.com/watch?v=ifIte5b-eik
+ - https://github.com/ancap-chan/youtube/tree/master/i_pencil
 
 ## Not Finished 
 - **Japanese Name** English Name [stats] 
