@@ -7,13 +7,16 @@
         - Transcription file(s)  
         - Translated file(s)  
         - Subtitle file(s)  
-        - Any other edited file(s)  
+        - Any other edited text file(s)  
 
 ---
 - **自由の哲学** Philosophy of Liberty 
  - https://www.youtube.com/watch?v=3cPMZg8dqq0
  - https://github.com/ancap-chan/youtube/tree/master/philosophy_of_liberty
- - todo: Ask for authorization from every referenced person.
+
+- **私、鉛筆** I, Pencil Movie 
+ - youtube url
+ - github url
 
 ## Not Finished 
 - **Japanese Name** English Name [stats] 
@@ -23,11 +26,6 @@
  - Reference Material..
 
 ---
-- **私、鉛筆** I, Pencil Movie (japanese audio) [0]
- - TODO: merge the good quality English video with the Japanese audio.
- - English video: https://www.youtube.com/watch?v=IYO3tOqDISE 
- - Japanese audio: https://www.youtube.com/watch?v=qakFfWOGBvg 
- - Reference work: https://www.youtube.com/watch?v=PC_qFEwMBi8
 
 - **「肩をすくめるアトラス」からの教訓** Lessons from "Atlas Shrugged" [0]
  - Reference work: https://www.youtube.com/watch?v=f2knZoVWxLs
