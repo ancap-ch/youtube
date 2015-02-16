@@ -1,15 +1,5 @@
 ## Finished 
-- **Japanese Name** English Name  
-    - Youtube URL  
-    - Github folder URL  
-        - Readme file (the same as the youtube video description)  
-            - Commentary, References, Original source URL  
-        - Transcription file(s)  
-        - Translated file(s)  
-        - Subtitle file(s)  
-        - Any other edited text file(s)  
 
----
 - **自由の哲学** Philosophy of Liberty 
  - https://www.youtube.com/watch?v=3cPMZg8dqq0
  - https://github.com/ancap-chan/youtube/tree/master/philosophy_of_liberty
@@ -18,17 +8,16 @@
  - https://www.youtube.com/watch?v=ifIte5b-eik
  - https://github.com/ancap-chan/youtube/tree/master/i_pencil
 
+- **「肩をすくめるアトラス」からの教訓** Lessons from "Atlas Shrugged" [0]
+ - https://www.youtube.com/watch?v=EmZ_II6jWoQ
+ - https://github.com/ancap-chan/youtube/tree/master/lessons_from_atlas_shrugged
+
 ## Not Finished 
 - **Japanese Name** English Name [stats] 
 [0: Verify permissions; 1: Upload video (hidden) and create Github folder; 2: Transcript; 3: Translate; 4: Synchronize; 5: Upload subtitle; 6: Enable video visualization in Youtube.]
  - Github folder URL
  - TODO: what still needs to be done
  - Reference Material..
-
----
-
-- **「肩をすくめるアトラス」からの教訓** Lessons from "Atlas Shrugged" [0]
- - Reference work: https://www.youtube.com/watch?v=f2knZoVWxLs
 
 ---
 - **エドガー搾取** Edgar the Exploiter [0]
