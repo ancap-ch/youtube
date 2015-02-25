@@ -15,11 +15,11 @@
  - https://www.youtube.com/watch?v=Lj5HiRue7ZU
  - https://github.com/ancap-chan/youtube/tree/master/edgar_the_exploiter
 
-## Not Finished 
 - **ジョージは役立つはずです** George Ought to Help
- - English video: https://www.youtube.com/watch?v=PGMQZEIXBMs
- - Other work: https://www.youtube.com/watch?v=MIPq6L5GbGQ
+ - https://www.youtube.com/watch?v=9ehWpLiOGME
+ - https://github.com/ancap-chan/youtube/tree/master/george_ought_to_help
 
+## Not Finished 
 - **去ることが許さだ** You Can Always Leave
  - English video: https://www.youtube.com/watch?v=fasTSY-dB-s
  - Reference work: https://www.youtube.com/watch?v=G0I9E1vcb5o
