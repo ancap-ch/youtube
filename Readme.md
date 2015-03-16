@@ -1,3 +1,10 @@
+Unreferenced Books - link pool
+Machinery of Freedom http://www.amazon.co.jp/dp/4326101466/
+What Has Government Done to Our Money? http://www.amazon.co.jp/dp/B00CCSK1RA/ https://www.youtube.com/watch?v=epc2xHQlCAM
+Defending the Undefendable (not sure) http://www.amazon.co.jp/dp/4062132729/ (not sure) http://www.amazon.co.jp/dp/4062814145/
+What Must Be Done http://www.amazon.co.jp/dp/B00HKLDUKE/
+Libertarian Manifest http://www.gifu.shotoku.ac.jp/kkura/libertarian%20manifest.htm
+
 ## Finished 
 - **自由の哲学** Philosophy of Liberty 
  - https://www.youtube.com/watch?v=3cPMZg8dqq0
@@ -19,24 +26,17 @@
  - https://www.youtube.com/watch?v=9ehWpLiOGME
  - https://github.com/ancap-chan/youtube/tree/master/george_ought_to_help
 
-## Not Finished 
 - **去ることが許さだ** You Can Always Leave
- - English video: https://www.youtube.com/watch?v=fasTSY-dB-s
- - Reference work: https://www.youtube.com/watch?v=G0I9E1vcb5o
+ - https://www.youtube.com/watch?v=EDVhn9nn3TU
+ - https://github.com/ancap-chan/youtube/tree/master/you_can_always_leave
 
-- **政府は私たちではない** The Government Is Not Us
- - English video: https://www.youtube.com/watch?v=kqoBZLSm1WA
- - Reference work: https://www.youtube.com/watch?v=vgvQzR_ItIU
-
-- **言論の自由** Free Speech
- - English video: https://www.youtube.com/watch?v=wuow3f_eZZM
- - Reference work: https://www.youtube.com/watch?v=jTKEr3gBMtQ 
+## Not Finished 
 
 ---
 - **中央銀行とビジネスサイクルについての真実** The Truth About Central Banking and Business Cycles
  - English video: https://www.youtube.com/watch?v=YaxIPPMR3fI
  - Reference work: https://www.youtube.com/watch?v=M943aTh4kas
- - Read more: http://www.amazon.com/Economic-Depressions-Their-Cause-Japanese-ebook/dp/B00EYVEF8E/
+ - Read more: http://www.amazon.co.jp/dp/B00EYVEF8E/
 
 - **ビットコインと代替通貨についての真実** The Truth about Bitcoin and Alternative Currencies
  - English video: https://www.youtube.com/watch?v=AVdKgQ0jmH8
@@ -45,8 +45,22 @@
 - **どのようにビットコインは、戦争を停止することができます** How Bitcoin Can Stop War
  - English video: https://www.youtube.com/watch?v=eyU3TgQqtV8
 
-- **ビットコイン対政治権力** Bitcoin vs. Political Power: The Cryptocurrency Revolution
- - English video: https://www.youtube.com/watch?v=joITmEr4SjY
+- How Governments Creates Mass Destruction Weapons
+ - English video: https://www.youtube.com/watch?v=spVl493wZUU
+
+---
+- **物事を禁止するの道徳的な問題は何ですか？** The Reality of the State 
+ - English video: https://www.youtube.com/watch?v=7iA3sAPmlQE 
+ - Full English video: https://www.youtube.com/watch?v=3VSqIMkXVe4
+ - Reference work: https://www.youtube.com/watch?v=qkEwNwU1tJU
+
+- **政府は私たちではない** The Government Is Not Us
+ - English video: https://www.youtube.com/watch?v=kqoBZLSm1WA
+ - Reference work: https://www.youtube.com/watch?v=vgvQzR_ItIU
+
+- **言論の自由** Free Speech
+ - English video: https://www.youtube.com/watch?v=wuow3f_eZZM
+ - Reference work: https://www.youtube.com/watch?v=jTKEr3gBMtQ 
 
 ---
 - **最も危険な独占：注意殺す** The most dangerous monopoly: When caution kills 
@@ -58,6 +72,9 @@
 - **移民は経済を支援方法** Should We Let Them All In? How Immigration Helps the Economy 
  - English video: http://www.learnliberty.org/videos/should-we-let-them-all-in-how-immigration-helps-the-economy/
 
+- Foreigners Are Our Friends
+ - https://www.youtube.com/watch?v=uXMnAPGY1uE
+
 - **なぜ有権者はそう無知か？** Why Are Voters So Uninformed? 
  - English video: https://www.youtube.com/watch?v=jwPGzkui8ow
  - Reference work: https://www.youtube.com/watch?v=zWHo1T1JiqA
@@ -65,6 +82,7 @@
 - **壊れた窓の誤謬。** The Broken Window Fallacy 
  - English video: http://www.learnliberty.org/videos/the-broken-window-fallacy/
  - Reference work: https://www.youtube.com/watch?v=J3IxaEonCGY
+ - [1]
 
 - **経済制裁は動作しますか？** What If We're Wrong About Sanctions? 
  - English video: https://www.youtube.com/watch?v=F0yP8Mkm7Jg
@@ -74,25 +92,13 @@
  - English video: https://www.youtube.com/watch?v=kSXKHLkK4jI
  - Reference work: https://www.youtube.com/watch?v=eEwHWYXJ4z4
 
-- Why Drugs Should Be Legalized 
- - English video: https://www.youtube.com/watch?v=nLsCC0LZxkY
- - Reference work: https://www.youtube.com/watch?v=-shwabBMEXQ
-
-- Should Drugs Be Legal? 
- - English video: https://www.youtube.com/watch?v=ljWitLZzT-o
-
 ---
+
+
 - The Free Lunch Myth 
  - English video: https://www.youtube.com/watch?v=YmqoCHR14n8
  - Reference work: https://www.youtube.com/watch?v=bSnoOJ0EiOc
-
-- Answering the Warring Defense Providers Objection 
- - English video: https://www.youtube.com/watch?v=spVl493wZUU
-
-- **物事を禁止するの道徳的な問題は何ですか？** The Reality of the State 
- - English video: https://www.youtube.com/watch?v=7iA3sAPmlQE 
- - Full English video: https://www.youtube.com/watch?v=3VSqIMkXVe4
- - Reference work: https://www.youtube.com/watch?v=qkEwNwU1tJU
+ - [1]
 
 - The Toxic Partner 
  - English video: https://www.youtube.com/watch?v=u1OvshEO01o
@@ -132,7 +138,7 @@
  - English video: https://www.youtube.com/watch?v=SUyHqbaEBts
 
 ---
-- **アイン·ランドの哲学** Objectivism: Ayn Rand's Philosophy for Living on Earth 
+- **アイン·ランドの哲学** Objectivism: Ayn Rand's Philosophy for Living on Earth
  - English video: https://www.youtube.com/watch?v=nT_RpzYohdI
  - Reference work: https://www.youtube.com/watch?v=CVIokkFXPME
 

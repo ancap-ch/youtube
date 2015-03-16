@@ -1,0 +1,772 @@
+1
+00:00:19,949 --> 00:00:26,499
+Imagine que você tem um amigo chamado George ...
+
+2
+00:00:26,498 --> 00:00:28,059
+Esta história era enganosa.
+
+3
+00:00:28,059 --> 00:00:31,820
+George não está sendo ameaçado! Ele só está sendo convidado a pagar sua justa parte do imposto
+
+4
+00:00:31,820 --> 00:00:36,520
+como o resto de nós. Se ele não gostar disso que ele sempre poderá sair.
+
+5
+00:00:36,520 --> 00:00:40,300
+vamos começar com a questão sobre a existência ou não do Estado ameaçar as pessoas.
+
+6
+00:00:40,299 --> 00:00:43,929
+Imagine uma ilha deserta.
+
+7
+00:00:43,929 --> 00:00:46,710
+Albin vive com algumas outras pessoas nessa ilha.
+
+8
+00:00:46,710 --> 00:00:48,369
+Um dia ele conhece Jeff.
+
+9
+00:00:48,369 --> 00:00:50,519
+Jeff diz
+
+10
+00:00:50,520 --> 00:00:52,390
+Dê-me a sua bola!
+
+11
+00:00:52,390 --> 00:00:55,109
+Ou você vai levar uma surra.
+
+12
+00:00:55,109 --> 00:00:57,609
+Jeff está ameaçando Albin com violência, certo?
+
+13
+00:00:57,609 --> 00:00:58,798
+Sim, é claro.
+
+14
+00:00:58,798 --> 00:01:01,149
+Mas os contribuintes não estão sendo ameaçados assim.
+
+15
+00:01:01,149 --> 00:01:05,109
+Ninguém, na verdade, é atacado por não pagar impostos.
+
+16
+00:01:05,109 --> 00:01:07,670
+Okay. Vamos supor que Jeff diga algo diferente.
+
+17
+00:01:07,670 --> 00:01:08,609
+Ele diz:
+
+18
+00:01:08,609 --> 00:01:11,299
+Dê-me a sua bola!
+
+19
+00:01:11,299 --> 00:01:15,659
+Se você não fizer isso, eu vou ter que pedir para você entregar a sua bola e sua camisa.
+
+20
+00:01:15,659 --> 00:01:17,319
+Se você ainda não cooperar,
+
+21
+00:01:17,319 --> 00:01:19,389
+você passará a noite amarrado naquela árvore.
+
+22
+00:01:19,390 --> 00:01:23,409
+E se você resistir a ser amarrado, você levará uma surra.
+
+23
+00:01:23,409 --> 00:01:27,450
+Agora, os defensores de Jeff poderiam insistir que ele nunca atacaria alguém por algo tão trivial
+
+24
+00:01:27,450 --> 00:01:29,500
+como se recusar a entregar a bola.
+
+25
+00:01:29,500 --> 00:01:31,599
+Ele somente usa a violência como último recurso,
+
+26
+00:01:31,599 --> 00:01:35,368
+como uma penalidade por quebrar as regras e resistir a punição adequada.
+
+27
+00:01:35,368 --> 00:01:39,840
+Porém não importa como Jeff explica isso, ele ainda está ameaçando Albin com violência, certo?
+
+28
+00:01:39,840 --> 00:01:43,040
+Okay. Sim, Albin ainda está ameaçado Jeff com violência,
+
+29
+00:01:43,040 --> 00:01:45,950
+mesmo que a violência esteja ausente em alguns passos anteriores a ela.
+
+30
+00:01:45,950 --> 00:01:48,689
+Mas esta não é uma boa analogia para a tributação.
+
+31
+00:01:48,689 --> 00:01:53,798
+Por um motivo, Estados modernos usam os impostos para fornecer serviços que ajudam as pessoas.
+
+32
+00:01:53,799 --> 00:01:55,000
+Ok
+
+33
+00:01:55,000 --> 00:02:00,680
+Então e se você ficasse sabendo que Jeff só queria melhorar a bola de Albin
+
+34
+00:02:00,680 --> 00:02:03,210
+e devolver para ele como uma surpresa.
+
+35
+00:02:03,209 --> 00:02:06,039
+Eu acho que eu não vejo mais Jeff como um cara tão mau,
+
+36
+00:02:06,040 --> 00:02:09,618
+mas ele ainda está ameaçando Albin, o que não está certo.
+
+37
+00:02:09,618 --> 00:02:12,389
+Mas há mais diferenças entre Jeff e do Estado.
+
+38
+00:02:12,389 --> 00:02:16,338
+O Estado conta com a tributação de modo que possa fornecer coisas
+
+39
+00:02:16,338 --> 00:02:17,889
+que simplesmente não seriam possíveis de serem fornecidas de outra forma,
+
+40
+00:02:17,889 --> 00:02:19,870
+como rodovias...
+
+41
+00:02:19,870 --> 00:02:21,528
+Você sabe que existem rodovias privadas, certo?
+
+42
+00:02:21,528 --> 00:02:22,359
+Certo, então e serviços essenciais como bombeiros?
+
+43
+00:02:22,359 --> 00:02:27,308
+Há bombeiros privados também
+
+44
+00:02:27,308 --> 00:02:29,859
+Bem, e o que dizer sobre a confiança de uma rede social de segurança? Caridade não é suficiente!
+
+45
+00:02:29,860 --> 00:02:34,130
+Antes da taxação obrigatória do Estado
+
+46
+00:02:34,129 --> 00:02:34,620
+acabar com elas,
+
+47
+00:02:34,620 --> 00:02:37,169
+costumava haver muitas sociedades de ajuda mútua.
+
+48
+00:02:37,169 --> 00:02:41,959
+Juntamente com instituições de caridade, eles fizeram um bom trabalho em cuidar dos necessitados.
+
+49
+00:02:41,959 --> 00:02:43,509
+De qualquer forma, para o bem da discussão,
+
+50
+00:02:43,509 --> 00:02:47,318
+vamos supor que há algumas coisas importantes que só poderiam ser oferecidas através de tributação.
+
+51
+00:02:48,919 --> 00:02:51,859
+Então Jeff não está mais interessado em bola de Albin.
+
+52
+00:02:51,859 --> 00:02:56,759
+Agora, ele quer que suas moedas de ouro. Ele está coletando dinheiro para construir uma fazenda de peixes.
+
+53
+00:02:56,758 --> 00:03:00,588
+Houve uma séria escassez de peixe no mês passado e Albin concorda
+
+54
+00:03:00,588 --> 00:03:01,780
+que uma fazenda seria uma boa ideia,
+
+55
+00:03:01,780 --> 00:03:05,909
+mas ele não dá seu dinheiro a Jeff. Ele prefere usá-lo de outras maneiras.
+
+56
+00:03:05,909 --> 00:03:07,348
+Jeff diz
+
+57
+00:03:07,348 --> 00:03:11,699
+A fazenda vai beneficiar a todos, e cada um pagou sua parte.
+
+58
+00:03:11,699 --> 00:03:14,429
+Não seria justo se só você não pagasse.
+
+59
+00:03:14,430 --> 00:03:18,769
+É por isso que você levará uma surra, se você não entregar o dinheiro.
+
+60
+00:03:18,769 --> 00:03:22,569
+Jeff só quer evitar que Albin receba de graça a melhoria
+
+61
+00:03:22,568 --> 00:03:23,618
+que ajudará a todos!
+
+62
+00:03:23,618 --> 00:03:27,049
+Mas ele não está ainda ameaçando Albin com a violência?
+
+63
+00:03:27,049 --> 00:03:28,569
+Sim
+
+64
+00:03:28,568 --> 00:03:32,458
+Mas, em uma democracia moderna são as pessoas que decidem a lei,
+
+65
+00:03:32,459 --> 00:03:33,838
+através dos seus representantes,
+
+66
+00:03:33,838 --> 00:03:38,068
+que é muito diferente de uma ilha onde não há representação.
+
+67
+00:03:38,068 --> 00:03:41,179
+Ok, vamos mudar um pouco as coisas na ilha para corrigir isso.
+
+68
+00:03:41,180 --> 00:03:43,019
+Alguns dos habitantes da ilha decidem
+
+69
+00:03:43,019 --> 00:03:46,579
+que deve haver um governante com certos poderes que outros habitantes não têm.
+
+70
+00:03:47,818 --> 00:03:50,448
+Este governante é escolhido por uma votação e Jeff foi o primeiro vencedor.
+
+71
+00:03:50,449 --> 00:03:55,309
+Como antes, Jeff está dizendo a Albin para pagar pelas melhorias que ele planejou.
+
+72
+00:03:55,308 --> 00:03:59,989
+Se Albin não entregar o dinheiro exigido, ele será comandado a entregar
+
+73
+00:03:59,989 --> 00:04:01,188
+ainda mais.
+
+74
+00:04:01,188 --> 00:04:06,549
+Se ele insistentemente se recusar, eventualmente a guarda da Ilha aparecerá em sua casa,
+
+75
+00:04:06,549 --> 00:04:09,149
+o levarão e o prenderão.
+
+76
+00:04:09,149 --> 00:04:14,139
+Quando seus seqüestradores chegarem, Albin poderia tentar fazê-los sair gritando um aviso
+
+77
+00:04:14,139 --> 00:04:19,369
+e sacando uma arma. Mas ele percebe que é muito mais provável que ele venha a ser morto
+
+78
+00:04:19,369 --> 00:04:23,290
+ao invés de ter sucesso em escapar da lista de exigências e punições do Estado,
+
+79
+00:04:23,290 --> 00:04:26,239
+pelo menos durante a sua estada na ilha.
+
+80
+00:04:26,238 --> 00:04:29,028
+Pera, pera, pera! policiais não são assassinos!
+
+81
+00:04:29,028 --> 00:04:30,718
+Eles geralmente não precisam ser,
+
+82
+00:04:30,718 --> 00:04:33,889
+Mas pense assim: O que você acha que aconteceria se não houvesse
+
+83
+00:04:33,889 --> 00:04:38,460
+perigo para Albin de ser morto, não importa o quanto ele resista?
+
+84
+00:04:38,459 --> 00:04:42,719
+Se os guardas simplesmente deixarem sozinhas as pessoas que se conseguiram se defender,
+
+85
+00:04:42,720 --> 00:04:46,289
+a notícia de que você poderia seguramente ignorar as exigências se espalharia. Eu acho que um grande número
+
+86
+00:04:46,288 --> 00:04:50,449
+de pessoas escolheria resistir abertamente. Aposto que até mesmo aqueles que gostam da ideia de um Estado
+
+87
+00:04:50,449 --> 00:04:53,810
+iriam resistir. Eles estariam se perguntando
+
+88
+00:04:53,810 --> 00:04:57,680
+Por que eu deveria ser o otário pagar uma grande parte da minha renda para todos estes
+
+89
+00:04:57,680 --> 00:05:01,718
+parasitas quando eu posso facilmente deixar de pagar?
+
+90
+00:05:01,718 --> 00:05:05,728
+Os guardas quase nunca usam a violência real contra pessoas como Albin.
+
+91
+00:05:05,728 --> 00:05:10,098
+Enquanto a maioria das pessoas, pelo menos, acharem que é inútil resistir,
+
+92
+00:05:10,098 --> 00:05:12,838
+isso será o suficiente para manter o funcionamento do Estado.
+
+93
+00:05:12,838 --> 00:05:17,189
+Por conta de os guardas muito raramente precisam usar a violência, as pessoas poderiam até esquecer
+
+94
+00:05:17,189 --> 00:05:22,060
+que o Estado está, em última instância, pronto para usar força letal para garantir obediência.
+
+95
+00:05:22,060 --> 00:05:24,350
+Sim, sim, tudo bem! Então talvez
+
+96
+00:05:24,350 --> 00:05:27,479
+tributação de fato dependa de ameaças de violência,
+
+97
+00:05:27,478 --> 00:05:30,490
+mas isso não significa que a tributação seja roubo.
+
+98
+00:05:30,490 --> 00:05:33,939
+Todo cidadão é obrigado a cumprir o contrato social.
+
+99
+00:05:33,939 --> 00:05:37,559
+Você vive em um país sabendo o que é esperado de você, e quais serão as punições
+
+100
+00:05:37,559 --> 00:05:39,860
+se você não seguir as regras.
+
+101
+00:05:39,860 --> 00:05:44,790
+Se você realmente não gosta de os termos, a maioria dos Estados de fato permitem que você os deixe.
+
+102
+00:05:44,790 --> 00:05:48,749
+E eu sei que você vai dizer: Eu nunca assinei um contrato social!
+
+103
+00:05:48,749 --> 00:05:50,449
+Mas isso não importa.
+
+104
+00:05:50,449 --> 00:05:53,810
+Quando a conta chega em um restaurante, você tem a obrigação de pagar
+
+105
+00:05:53,810 --> 00:05:55,759
+mesmo que você não tenha assinado nada.
+
+106
+00:05:55,759 --> 00:05:59,098
+É a mesma coisa com o contrato social.
+
+107
+00:05:59,098 --> 00:06:02,569
+Por ficar em um país, pelo menos depois que você tem idade suficiente para ir embora,
+
+108
+00:06:02,569 --> 00:06:06,220
+você está concordando em cumprir as regras, e você está concedendo permissão
+
+109
+00:06:06,220 --> 00:06:08,600
+para que certos tipos de força venham a ser usados contra você
+
+110
+00:06:08,600 --> 00:06:11,789
+se você não se ater a essas regras.
+
+111
+00:06:11,788 --> 00:06:15,680
+Espere um segundo. O chefe restaurante começa a definir as regras, porque ele é dono do restaurante.
+
+112
+00:06:15,680 --> 00:06:19,240
+É ser o proprietário de uma coisa que lhe dá o direito de dizer quem pode
+
+113
+00:06:19,240 --> 00:06:21,139
+usá-la, e como.
+
+114
+00:06:21,139 --> 00:06:25,900
+Algumas pessoas dizem que um contrato social entre o Estado e o cidadão.
+
+115
+00:06:25,899 --> 00:06:27,418
+Okay.
+
+116
+00:06:27,418 --> 00:06:31,829
+Mas como é que o Estado vem a ser o dono da terra no qual ele impõe suas leis?
+
+117
+00:06:31,829 --> 00:06:34,859
+É importante saber, porque se ele não é o dono
+
+118
+00:06:34,860 --> 00:06:38,550
+então o Estado não tem autoridade para definir os termos de uso dessa terra
+
+119
+00:06:38,550 --> 00:06:41,919
+E é realmente agressão contra as pessoas que ele taxa.
+
+120
+00:06:41,918 --> 00:06:46,718
+Algumas pessoas não acreditam que o Estado é o legítimo proprietário das terras que ele alega.
+
+121
+00:06:46,718 --> 00:06:51,418
+Para entender o porquê, voltemos à ilha, pois foi logo no início,
+
+122
+00:06:51,418 --> 00:06:53,698
+antes de fazermos todas as mudanças.
+
+123
+00:06:53,699 --> 00:06:58,189
+Em algum canto remoto da ilha Albin encontra um pouco de madeira no chão
+
+124
+00:06:58,189 --> 00:07:00,588
+e a usa para construir uma cabana ali.
+
+125
+00:07:00,588 --> 00:07:05,079
+Você não acha que Albin é o dono da cabana, ou seja, que Albin tem o direito de
+
+126
+00:07:05,079 --> 00:07:09,209
+dizer se as outras pessoas podem ou não podem usar a cabana?
+
+127
+00:07:09,209 --> 00:07:11,749
+Sim, com certeza Albin é o proprietário.
+
+128
+00:07:11,749 --> 00:07:13,650
+e tem Jeff o direito de exigir
+
+129
+00:07:13,649 --> 00:07:17,978
+que Albin siga um conjunto de regras a fim de continuar a usar a cabana?
+
+130
+00:07:17,978 --> 00:07:19,240
+Não, claro que não.
+
+131
+00:07:19,240 --> 00:07:22,500
+Jeff não tem o direito de impor condições a Albin,
+
+132
+00:07:22,500 --> 00:07:23,838
+porque a cabana não é dele.
+
+133
+00:07:23,838 --> 00:07:25,949
+Se Jeff remove fisicamente Albin,
+
+134
+00:07:25,949 --> 00:07:28,959
+ele vem a se tornar o dono da cabana?
+
+135
+00:07:28,959 --> 00:07:30,668
+Não. Jeff estaria errado.
+
+136
+00:07:30,668 --> 00:07:33,918
+A cabana ainda pertence ao Albin. Ele a construiu!
+
+137
+00:07:33,918 --> 00:07:35,789
+E se Jeff anunciou um dia
+
+138
+00:07:35,790 --> 00:07:39,939
+que possuía as colinas do norte desabitadas, mesmo que ele mesmo nunca as tenha visitado.
+
+139
+00:07:39,939 --> 00:07:44,040
+E, em seguida, atacasse qualquer um que tentasse utilizar aquela terra sem sua
+
+140
+00:07:44,040 --> 00:07:45,400
+permissão.
+
+141
+00:07:45,399 --> 00:07:48,968
+Será que isso significa que as montanhas do norte eram sua propriedade?
+
+142
+00:07:48,968 --> 00:07:50,569
+Não. Isso só iria fazê-lo
+
+143
+00:07:50,569 --> 00:07:53,569
+um valentão. Ele não possui de fato as colinas.
+
+144
+00:07:53,569 --> 00:07:55,009
+Isso é o que eu penso também.
+
+145
+00:07:55,009 --> 00:07:58,028
+Parece que você concorda comigo sobre as duas maneiras que uma pessoa pode adquirir
+
+146
+00:07:58,028 --> 00:07:59,408
+propriedade.
+
+147
+00:07:59,408 --> 00:08:02,139
+Primeiro de tudo você pode apropriar algo.
+
+148
+00:08:02,139 --> 00:08:06,038
+o que significa criar ou melhorar algo que não pertencia a ninguém previamente
+
+149
+00:08:06,038 --> 00:08:09,959
+Construir um abrigo usando materiais sem dono em terra sem dono é um exemplo
+
+150
+00:08:09,959 --> 00:08:11,740
+de apropriação original.
+
+151
+00:08:11,740 --> 00:08:15,650
+A segunda forma na qual você pode se tornar um proprietário é se o proprietário anterior de uma coisa voluntariamente
+
+152
+00:08:15,649 --> 00:08:16,968
+der a mesma a você.
+
+153
+00:08:16,968 --> 00:08:21,348
+Isso acontece numa troca com a doação acontecendo em ambas as direções.
+
+154
+00:08:21,348 --> 00:08:25,098
+Poderiam haver divergências sobre como exatamente você pode se apropriar de algo para
+
+155
+00:08:25,098 --> 00:08:26,279
+tornar-se seu proprietário,
+
+156
+00:08:26,279 --> 00:08:29,279
+ou por quanto tempo você tem permissão para deixar de usar algo  antes que alguém possa
+
+157
+00:08:29,279 --> 00:08:30,029
+apropriar novamente daquilo,
+
+158
+00:08:30,029 --> 00:08:33,100
+mas eu acho que a maioria das pessoas concordam sobre o básico:
+
+159
+00:08:33,100 --> 00:08:36,740
+Jeff não possui o abrigo Albin ou as colinas.
+
+160
+00:08:36,740 --> 00:08:40,169
+Se a transferência voluntária e apropriação original são as duas maneiras de
+
+161
+00:08:40,169 --> 00:08:41,969
+tornar-se proprietário de uma coisa
+
+162
+00:08:41,970 --> 00:08:45,310
+então a maioria das reivindicações do Estado para a propriedade da terra são suspeitas.
+
+163
+00:08:45,309 --> 00:08:48,689
+Isso porque a maioria das terras já tinha dono quando o Estado as tomou pela
+
+164
+00:08:48,690 --> 00:08:53,320
+força. Ou a terra estava sem dono e, em vez de apropriá-la o estado
+
+165
+00:08:53,320 --> 00:08:57,010
+ameaçou punir usuários que não tem a sua permissão.
+
+166
+00:08:57,009 --> 00:09:01,139
+Então, o Estado comporta-se como Jeff ao roubar o abrigo de Albin ou ao anunciar que ele
+
+167
+00:09:01,139 --> 00:09:02,629
+possui as colinas.
+
+168
+00:09:02,629 --> 00:09:06,929
+Mas nós não acreditamos que o direito de propriedade funciona assim. Se quisermos ser coerentes
+
+169
+00:09:06,929 --> 00:09:10,599
+Eu acho que nós temos que admitir que o Estado não detém a maioria da terra e que
+
+170
+00:09:10,600 --> 00:09:12,570
+não houver um acordo legítimo
+
+171
+00:09:12,570 --> 00:09:15,220
+entre o Estado e a maioria das pessoas que ele taxa.
+
+172
+00:09:15,220 --> 00:09:17,370
+Não há contrato social real, apenas a ameaças de violência
+
+173
+00:09:17,370 --> 00:09:21,360
+Mas se voltarmos longe o suficiente
+
+174
+00:09:21,360 --> 00:09:25,180
+existem muitos pedaços de terra que foram tomados a força de alguém.
+
+175
+00:09:25,179 --> 00:09:28,709
+Eu vivo na terra que foi roubada a menos de 200 anos atrás
+
+176
+00:09:28,710 --> 00:09:31,720
+isso significa que eu não tenho o direito de viver lá?
+
+177
+00:09:31,720 --> 00:09:33,250
+É uma boa pergunta.
+
+178
+00:09:33,250 --> 00:09:36,429
+Um descendente da pessoa que a terra foi roubada poderia mostrar-se e
+
+179
+00:09:36,429 --> 00:09:39,679
+demonstrar que têm uma reivindicação melhor na terra do que você faz.
+
+180
+00:09:39,679 --> 00:09:44,000
+Mas nenhum descendente sobrevivente estando interessado, então isso poderia qualificá-la como
+
+181
+00:09:44,000 --> 00:09:45,110
+terra abandonada.
+
+182
+00:09:45,110 --> 00:09:48,620
+Terras abandonadas são tratadas como terras que nunca foi possuídas.
+
+183
+00:09:48,620 --> 00:09:53,259
+Ele pode ser apropriada e transmitida através de trocas voluntárias depois.
+
+184
+00:09:53,259 --> 00:09:54,340
+Okay.
+
+185
+00:09:54,340 --> 00:09:56,389
+Isso meio que faz sentido.
+
+186
+00:09:56,389 --> 00:10:01,449
+Mas eu não estou completamente convencido ainda. Deixe-me pensar um pouco mais.
+
+187
+00:10:01,450 --> 00:10:02,790
+Seja como for usado,
+
+188
+00:10:02,789 --> 00:10:07,048
+e como quer que se justifique, a tributação depende de uma crescente lista de
+
+189
+00:10:07,048 --> 00:10:12,480
+exigências desagradáveis ​​e punições, em última instância apoiadas por força letal.
+
+190
+00:10:12,480 --> 00:10:16,570
+Algumas pessoas acreditam que o Estado mantém as ameaças de violência em massa contra
+
+191
+00:10:16,570 --> 00:10:20,320
+pessoas pacíficas, que ilegitimamente reivindica a posse da terra em que vivemos
+
+192
+00:10:20,320 --> 00:10:25,720
+e que é uma instituição agressiva incompatível com uma verdadeira sociedade civil.
+
+193
+00:10:28,610 --> 00:10:35,610
+Faça uma pesquisa na web para alguns desses termos, se você estiver interessado em aprender mais.
+
